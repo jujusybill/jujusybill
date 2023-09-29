@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Juju (@jujusybill)
+- 👀 I’m interested in: web design, user experience (UX), site management, and learning cybersec.
+- 🌱 I’m currently learning JavaScript and Java.
+- 💞️ I’m looking to collaborate on web design.
+- 🤓 I have experience with Python, HTML, and Linux (Parrot OS and Kali Linux).
+- 📫 How to reach me dzieciakkorony@gmail.com
