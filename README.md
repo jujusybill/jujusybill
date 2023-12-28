@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Juju (@jujusybill)
+- 👋 Hi, I’m Agata (@jujusybill)
 - 👀 I’m interested in: web design, user experience (UX), site management, and learning cybersec.
 - 🌱 I’m currently learning JavaScript and Java.
 - 💞️ I’m looking to collaborate on web design.
